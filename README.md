@@ -20,6 +20,8 @@ Our main aim is to estimate if the road taken by the user is squiggly or straigh
     models_peaks.py - has the code to build SVM, KNN, Decision trees using frequency of change in direction of slopes.
     
     models_rmse.py - has the code to build SVM, KNN, Decision trees using rmse.
+ 
+    models_zc.py - has the code to build SVM, KNN, Decision trees using zero crossings of first derivative.
     
     distribution_user_rides.py - has code to find percenntage of squiggly and straight paths taken by the rider.
     
@@ -29,6 +31,8 @@ Our main aim is to estimate if the road taken by the user is squiggly or straigh
      frequency_plot.py - has code to plot variation in frequency in segmented paths.
      
      rmse_plot.py - has the code to plot histogram of the rmse.
+
+     zc_plot.py - has the code to plot number of points of zero crossings in a segment.
      
      segment_mapping.py - it contains code to find if each segment of the road is squiggly or straight and plot the same.
      
