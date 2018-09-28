@@ -1,4 +1,7 @@
 # Terrain_Estimation
+
+Find the arxiv version : https://arxiv.org/abs/1809.09745
+
 Estimating type of surface using GPS data
  
  We have explored how the GPS coordinates of the path taken by a bicycle rider can be sufficient for mapping the type of surface of the path he took. 
